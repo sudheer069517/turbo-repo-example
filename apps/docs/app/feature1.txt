@@ -1,1 +1,2 @@
+this is added from feature2 branch
 this is a test for rebase in feature1
